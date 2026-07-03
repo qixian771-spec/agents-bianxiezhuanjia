@@ -1,0 +1,17 @@
+# 运行时工作目录（gsd-expert 编排时生成）
+.gsd-expert/
+
+# WorkBuddy agent 记忆/缓存
+.workbuddy/
+
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python 模拟器临时输出（验证用）
+/tmp/gsd-expert-sim/
